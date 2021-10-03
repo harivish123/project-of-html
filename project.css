@@ -1,0 +1,27 @@
+body{
+    width: 400px;
+    height: 500px;
+    border-color: black;
+    border-style: solid;
+}
+section{
+    background-color: seagreen;
+    width: 400px;
+    height: 100px;
+}
+ h1{
+     color: snow;
+     font-style: italic;
+ }
+ div{
+      border-top: 0px;
+  }
+ img{
+     width: 30px;
+     height: 30px;
+     margin-right: 10px;
+     border-radius: 10px;
+ }
+span{
+    margin-right: 50px;
+}
